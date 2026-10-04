@@ -2,6 +2,8 @@
 
 A black-and-purple desktop GIF editor with a single, readable workspace.
 
+[Download v0.6.1](https://github.com/bubblegump30/PurpleDragonGIFStudio/raw/refs/heads/main/downloads/PurpleDragonGIFStudio-v0.6.1.zip) · [Donate via PayPal](https://www.paypal.com/paypalme/KyleAustin85)
+
 ## Start on Windows
 
 Extract the ZIP, then double-click **Start-GIF-Studio.bat**. Install Python 3.11 or newer with the Python launcher if needed. First launch downloads the dependencies, so internet access is required during setup.
