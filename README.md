@@ -37,3 +37,11 @@ Search now requests 50 results per page. Load More (50) appends another page whi
 ## Creator and support
 
 Created by **Purple Dragon Foundation Ltd**. The Output Settings tab includes clickable buttons for our [website](https://www.purpledragonfoundationltd.xyz/), [GitHub](https://github.com/bubblegump30), and optional [PayPal donations](https://www.paypal.com/paypalme/KyleAustin85).
+
+## Community
+
+Contributions are welcome. Read our [contributing guide](CONTRIBUTING.md), [Code of Conduct](CODE_OF_CONDUCT.md), [security policy](SECURITY.md), and [support guide](.github/SUPPORT.md). Use the issue and pull request templates when participating.
+
+## License
+
+Copyright (c) 2026 Purple Dragon Foundation Ltd. Source code is available under the [MIT License](LICENSE). Third-party media, fonts, dependencies, and provider services retain their own licenses and terms.
